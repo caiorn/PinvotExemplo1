@@ -1,0 +1,9 @@
+C:\Users\Caio\source\repos\SendInputs\SendInputs\bin\Debug\SendInputs.exe
+C:\Users\Caio\source\repos\SendInputs\SendInputs\bin\Debug\SendInputs.pdb
+C:\Users\Caio\source\repos\SendInputs\SendInputs\obj\Debug\SendInputs.csprojAssemblyReference.cache
+C:\Users\Caio\source\repos\SendInputs\SendInputs\obj\Debug\SendInputs.Properties.Resources.resources
+C:\Users\Caio\source\repos\SendInputs\SendInputs\obj\Debug\SendInputs.csproj.GenerateResource.cache
+C:\Users\Caio\source\repos\SendInputs\SendInputs\obj\Debug\SendInputs.csproj.CoreCompileInputs.cache
+C:\Users\Caio\source\repos\SendInputs\SendInputs\obj\Debug\SendInputs.exe
+C:\Users\Caio\source\repos\SendInputs\SendInputs\obj\Debug\SendInputs.pdb
+C:\Users\Caio\source\repos\SendInputs\SendInputs\obj\Debug\SendInputs.Form1.resources
